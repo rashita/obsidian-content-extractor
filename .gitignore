@@ -1,0 +1,12 @@
+# 依存ライブラリ
+node_modules/
+
+# ビルド済みファイル（配布用リリース以外では不要な場合が多い）
+main.js
+
+# OSが生成するゴミファイル
+.DS_Store
+Thumbs.db
+
+# 開発用のログ
+npm-debug.log*

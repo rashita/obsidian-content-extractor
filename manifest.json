@@ -1,0 +1,9 @@
+{
+    "id": "obsidian-content-extractor",
+    "name": "Content Extractor",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Extract links, headings, and other elements to the sidebar.",
+    "author": "Your Name",
+    "isDesktopOnly": false
+}
